@@ -2,17 +2,15 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img height="160" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RpMWp1OWZmejFraDN5cDN3Z2w2YXgxeXczbTNsdnBncHRtbjBsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif"  />
+  <img height="203" src="https://i.pinimg.com/originals/9d/ea/64/9dea6422afee150cbe2f65b5317285eb.gif"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<p align="left">Hey there 👋 I'm Mehdi Radfar<br><br>🚀 I'm a backend developer with a strong passion for clean code, smart systems, and meaningful work.<br>🧠 I work primarily with Python, Django, and RESTful APIs, and I've also built projects using JavaScript, TypeScript, PHP, and the Laravel framework.<br>🌌 Currently, I'm diving deep into the world of Artificial Intelligence, and preparing for a future in Mechatronics — combining software, hardware, and intelligence.<br><br>📚 I love books, and I'm especially fascinated by space, astronomy, and physics — the deeper the mystery, the more excited I get.<br><br>🧩 I'm also interested in philosophy and minimalism — always striving to focus on what really matters.<br><br>Feel free to reach out if you want to collaborate, talk tech, or just share your favorite space fact 🌠<br>📬 Email: metiii.py@gmail.com</p>
+<p align="left">Hey there 👋 I'm Mehdi Radfar<br><br>🚀 I'm a backend developer with a strong passion for clean code, smart systems, and meaningful work.<br>🧠 I work primarily with Python, Django, and RESTful APIs, and I've also built projects using JavaScript, TypeScript, PHP, and the Laravel framework.<br>🌌 Currently, I'm diving deep into the world of Artificial Intelligence, and preparing for a future in Mechatronics — combining software, hardware, and intelligence.<br><br>📚 I love books, and I'm especially fascinated by space, astronomy, and physics — the deeper the mystery, the more excited I get.<br><br>🧩 I'm also interested in philosophy and minimalism — always striving to focus on what really matters.<br><br>Feel free to reach out if you want to collaborate, talk tech, or just share your favorite space fact 🌠<br>📬 Email: thisisro@gmail.com</p>
 
 ###
 
@@ -88,10 +86,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/funlifew/funlifew/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/funlifew/funlifew/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/funlifew/funlifew/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/funlifew/funlifew/output/snake.svg" alt="Snake animation" />
 
 ###

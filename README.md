@@ -10,7 +10,9 @@
 
 ###
 
-<h5 align="left">Hey there 👋 I'm Mehdi Radfar<br><br>🚀 I'm a backend developer with a strong passion for clean code, smart systems, and meaningful work.<br>🧠 I work primarily with Python, Django, and RESTful APIs, and I've also built projects using JavaScript, TypeScript, PHP, and the Laravel framework.<br>🌌 Currently, I'm diving deep into the world of Artificial Intelligence, and preparing for a future in Mechatronics — combining software, hardware, and intelligence.<br><br>📚 I love books, and I'm especially fascinated by space, astronomy, and physics — the deeper the mystery, the more excited I get.<br><br>🧩 I'm also interested in philosophy and minimalism — always striving to focus on what really matters.<br><br>Feel free to reach out if you want to collaborate, talk tech, or just share your favorite space fact 🌠<br>📬 Email: thisisro@gmail.com</h5>
+<br clear="both">
+
+<p align="left">Hey there 👋 I'm Mehdi Radfar<br><br>🚀 I'm a backend developer with a strong passion for clean code, smart systems, and meaningful work.<br>🧠 I work primarily with Python, Django, and RESTful APIs, and I've also built projects using JavaScript, TypeScript, PHP, and the Laravel framework.<br>🌌 Currently, I'm diving deep into the world of Artificial Intelligence, and preparing for a future in Mechatronics — combining software, hardware, and intelligence.<br><br>📚 I love books, and I'm especially fascinated by space, astronomy, and physics — the deeper the mystery, the more excited I get.<br><br>🧩 I'm also interested in philosophy and minimalism — always striving to focus on what really matters.<br><br>Feel free to reach out if you want to collaborate, talk tech, or just share your favorite space fact 🌠<br>📬 Email: thisisro@gmail.com</p>
 
 ###
 
@@ -78,16 +80,18 @@
 
 ###
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/funlifew/count.svg?"  />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/funlifew/funlifew/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/funlifew/funlifew/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/funlifew/funlifew/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/funlifew/count.svg?"  />
-</div>
 
 ###
